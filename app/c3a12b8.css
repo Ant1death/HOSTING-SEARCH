@@ -1,0 +1,397 @@
+.cherry-team__department .cherry-team__department-head {
+    cursor: pointer;
+    display: flex;
+    align-items: center
+}
+
+.cherry-team__department .cherry-team__department-head:hover .cherry-team__department-action {
+    color: #0054ff
+}
+
+.cherry-team__department .cherry-team__department-head + .cherry-team__department-body {
+    margin-top: 50px
+}
+
+.cherry-team__department .cherry-team__department-details {
+    margin-right: 30px
+}
+
+.cherry-team__department .cherry-team__department-details + .cherry-team__department-action {
+    margin-left: auto
+}
+
+.cherry-team__department .cherry-team__department-action {
+    transition: all .2s ease-in-out;
+    font-size: 18px;
+    font-weight: 600;
+    color: #6f6f70;
+    margin-left: auto
+}
+
+@media(min-width:0)and (max-width:768px) {
+    .cherry-team__department .cherry-team__department-action {
+        font-size: 15px
+    }
+}
+
+.cherry-team__department + .cherry-team__department {
+    padding-top: 50px;
+    margin-top: 50px;
+    border-top: 1px solid #e6eaee
+}
+
+.cherry-team__department .cherry-team__department-title {
+    font-size: 28px;
+    font-family: Titillium Web, sans-serif;
+    color: #1f1f22
+}
+
+@media(min-width:0)and (max-width:768px) {
+    .cherry-team__department .cherry-team__department-title {
+        font-size: 24px
+    }
+}
+
+.cherry-team__department .cherry-team__department-members {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    margin-top: -40px
+}
+
+.cherry-team__department .cherry-team__department-quantity {
+    margin-top: 10px
+}
+
+.cherry-team__member {
+    flex: 0 0 20%;
+    margin-top: 40px
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-team__member {
+        flex: 0 0 25%
+    }
+}
+
+@media(min-width:0)and (max-width:768px) {
+    .cherry-team__member {
+        flex: 0 0 33.333%
+    }
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-team__member {
+        flex: 0 0 50%
+    }
+}
+
+.cherry-team__member .cherry-team__member-position {
+    margin-top: 20px;
+    color: #1f1f22;
+    font-size: 17px;
+    font-weight: 600
+}
+
+@media(min-width:0)and (max-width:768px) {
+    .cherry-team__member .cherry-team__member-position {
+        font-size: 16px
+    }
+}
+
+.cherry-team__member .cherry-team__member-name {
+    font-size: 14px;
+    color: #1f1f22;
+    margin: 10px 0
+}
+
+.cherry-team__member .cherry-team__member-since {
+    font-size: 12px
+}
+
+.cherry-team__member .cherry-team__member-photo {
+    width: 64px;
+    height: 64px;
+    border-radius: 2px;
+    background: #f2f5fa;
+    position: relative
+}
+
+.cherry-team__member .cherry-team__member-photo img {
+    border-radius: 2px;
+    width: 100%;
+    height: auto
+}
+
+.cherry-team__member .cherry-team__member-photo span {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%
+}
+
+.cherry-view--company .cherry-header {
+    padding: 120px 0;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    background-image: url(/_nuxt/img/43ef99b.svg);
+    background-position: top
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-view--company .cherry-header {
+        padding: 40px 0
+    }
+}
+
+.cherry-view--company .cherry-header .cherry-header__container {
+    max-width: 700px
+}
+
+.cherry-view--company .cherry-header .cherry-header__head + .cherry-header__body {
+    margin-top: 120px
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-view--company .cherry-header .cherry-header__head + .cherry-header__body {
+        margin-top: 60px
+    }
+}
+
+.cherry-view--company .cherry-section--contacts {
+    padding-top: 0;
+    padding-bottom: 0;
+    border-top: 0 !important
+}
+
+.cherry-view--company .cherry-section--contacts .el-form-item {
+    margin-bottom: 0
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__content {
+    display: flex
+}
+
+@media(min-width:0)and (max-width:768px) {
+    .cherry-view--company .cherry-section--contacts .cherry-contacts__content {
+        display: block
+    }
+
+    .cherry-view--company .cherry-section--contacts .cherry-contacts__content .cherry-contacts__info {
+        margin-bottom: 40px;
+        max-width: 100%
+    }
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__map {
+    margin-bottom: 60px;
+    height: 500px;
+    width: 100%;
+    background-color: #0054ff;
+    background-repeat: no-repeat;
+    background-image: url(/_nuxt/img/601a43e.png);
+    background-position: 50%
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info {
+    padding-top: 30px;
+    max-width: 280px;
+    width: 100%
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__widget {
+    margin-top: 40px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__widget svg {
+    color: #1f1f22
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__widget a {
+    text-decoration: none;
+    color: #1f1f22
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__widget a:hover {
+    color: #0054ff
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__widget .cherry-contacts__widget-head + .cherry-contacts__widget-body {
+    margin-top: 15px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__widget .cherry-contacts__widget-title {
+    color: #1f1f22;
+    text-decoration: none;
+    font-family: Titillium Web, sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 600
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__widget .cherry-contacts__widget-title + .cherry-contacts__widget-description {
+    margin-top: 10px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__menu {
+    display: block
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__menu + .cherry-contacts__menu {
+    margin-top: 25px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__menu .cherry-contacts__menu-item.cherry-contacts__menu-item {
+    margin-top: 10px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__menu.cherry-contacts__menu--horizontal {
+    display: flex;
+    align-items: center
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__menu.cherry-contacts__menu--horizontal .cherry-contacts__menu-item {
+    margin-top: 0
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__menu.cherry-contacts__menu--horizontal .cherry-contacts__menu-item a {
+    display: inline-block;
+    font-size: 0;
+    line-height: 1
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-contacts__menu.cherry-contacts__menu--horizontal .cherry-contacts__menu-item + .cherry-contacts__menu-item {
+    margin-top: 0;
+    margin-left: 15px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info .cherry-section__head + .cherry-section__body {
+    margin-top: 30px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__info + .cherry__contacts__form {
+    margin-left: 100px
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__form {
+    padding: 30px;
+    width: 100%;
+    text-align: left
+}
+
+.cherry-view--company .cherry-section--contacts .cherry-contacts__form .el-form-item {
+    margin-bottom: 0
+}
+
+.cherry-view--company .cherry-digitblocks {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -15px
+}
+
+.cherry-view--company .cherry-digitblocks .cherry-digitblocks__item {
+    flex: 0 0 25%;
+    padding: 15px
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-view--company .cherry-digitblocks .cherry-digitblocks__item {
+        flex: 0 0 50%
+    }
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-view--company .cherry-digitblocks .cherry-digitblocks__item {
+        flex: 0 0 100%
+    }
+}
+
+.cherry-view--company .cherry-digitblocks .cherry-digitblocks__digit {
+    font-family: Titillium Web, sans-serif;
+    font-size: 42px;
+    color: #1f1f22
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-view--company .cherry-digitblocks .cherry-digitblocks__digit {
+        font-size: 28px
+    }
+}
+
+.cherry-view--company .cherry-digitblocks .cherry-digitblocks__digit + .cherry-digitblocks__description {
+    margin-top: 15px;
+    line-height: 1.44
+}
+
+.cherry-view--company .cherry-digitblocks .cherry-digitblocks__description {
+    font-size: 18px
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-view--company .cherry-digitblocks .cherry-digitblocks__description {
+        font-size: 14px
+    }
+}
+
+.cherry-view--company .cherry-digitblocks .cherry-digitblocks__box {
+    padding: 40px 30px;
+    height: 100%;
+    border: 1px solid #eef0f8
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-view--company .cherry-digitblocks .cherry-digitblocks__box {
+        padding: 30px
+    }
+}
+
+.cherry-view--company .cherry-corevalues .cherry-corevalues__video {
+    margin-bottom: 40px
+}
+
+.cherry-view--company .cherry-corevalues .cherry-corevalues__item {
+    padding: 60px 0 40px;
+    margin: 0 auto;
+    max-width: 768px;
+    text-align: center
+}
+
+.cherry-view--company .cherry-corevalues .cherry-corevalues__title {
+    font-size: 28px;
+    color: #1f1f22;
+    font-family: Titillium Web, sans-serif;
+    margin: 10px 0 0
+}
+
+.cherry-view--company .cherry-corevalues .cherry-corevalues__subtitle {
+    font-size: 20px;
+    color: #1f1f22
+}
+
+.cherry-view--company .cherry-corevalues .cherry-corevalues__description {
+    margin-top: 30px;
+    font-size: 16px
+}
+
+.cherry-view--company .cherry-gallery .cherry-gallery__item {
+    width: 480px
+}
+
+.cherry-view--company .cherry-gallery .cherry-gallery__item img {
+    filter: grayscale(1);
+    height: auto
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-view--company .cherry-gallery .cherry-gallery__item {
+        max-width: 480px
+    }
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-view--company .hidden-picture {
+        display: none
+    }
+}

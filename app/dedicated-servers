@@ -1,0 +1,1030 @@
+<!doctype html>
+<html data-n-head-ssr lang="en" data-n-head="%7B%22lang%22:%7B%22ssr%22:%22en%22%7D%7D">
+  <head>
+    <title>Dedicated Servers with Hourly Billing</title>
+    <meta data-n-head="ssr" charset="utf-8">
+    <meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1">
+    <meta data-n-head="ssr" http-equiv="pragma" content="no-cache">
+    <meta data-n-head="ssr" http-equiv="cache-control" content="no-cache">
+    <meta data-n-head="ssr" http-equiv="expires" content="0">
+    <meta data-n-head="ssr" data-hid="charset" charset="utf-8">
+    <meta data-n-head="ssr" data-hid="mobile-web-app-capable" name="mobile-web-app-capable" content="yes">
+    <meta data-n-head="ssr" data-hid="apple-mobile-web-app-title" name="apple-mobile-web-app-title" content="Cherry Servers Bare Metal Cloud">
+    <meta data-n-head="ssr" data-hid="author" name="author" content="Cherry Servers">
+    <meta data-n-head="ssr" data-hid="theme-color" name="theme-color" content="#0054ff">
+    <meta data-n-head="ssr" data-hid="og:image" property="og:image" content="https://www.cherryservers.com/_nuxt/img/236b9e8.png">
+    <meta data-n-head="ssr" data-hid="og:url" property="og:url" content="https://www.cherryservers.com/pricing/dedicated-servers">
+    <meta data-n-head="ssr" data-hid="og:site_name" property="og:site_name" content="Cherry Servers">
+    <meta data-n-head="ssr" data-hid="og:type" property="og:type" content="website">
+    <meta data-n-head="ssr" data-hid="keywords" name="keywords" content="dedicated cloud servers, bare metal cloud servers, best cloud servers, what is bare metal cloud">
+    <meta data-n-head="ssr" data-hid="description" name="description" content="Powerful dedicated servers with hourly billing allow engineers run high-end applications cheaper and more efficient. Check our Premium Servers now.">
+    <meta data-n-head="ssr" data-hid="og:title" property="og:title" content="Elastic Bare Metal Cloud Servers - Simple &amp; Cost-effective IaaS">
+    <meta data-n-head="ssr" data-hid="og:description" property="og:description" content="Powerful dedicated servers with hourly billing allow engineers run high-end applications cheaper and more efficient. Check our Premium Servers now.">
+    <link data-n-head="ssr" rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link data-n-head="ssr" rel="preconnect" href="https://www.google.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://www.google-analytics.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://www.googleadservices.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://googleads.g.doubleclick.net">
+    <link data-n-head="ssr" rel="preconnect" href="https://stats.g.doubleclick.net">
+    <link data-n-head="ssr" rel="preconnect" href="https://bid.g.doubleclick.net">
+    <link data-n-head="ssr" rel="preconnect" href="https://www.youtube.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://s.ytimg.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://bat.bing.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://cdn.lr-ingest.iom">
+    <link data-n-head="ssr" rel="preconnect" href="https://in.hotjar.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://script.hotjar.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://vc.hotjar.io">
+    <link data-n-head="ssr" rel="preconnect" href="https://vars.hotjar.com">
+    <link data-n-head="ssr" rel="preconnect" href="https://static.hotjar.com">
+    <link data-n-head="ssr" data-hid="shortcut-icon" rel="shortcut icon" href="/_nuxt/icons/icon_64x64.8b515b.png">
+    <link data-n-head="ssr" data-hid="apple-touch-icon" rel="apple-touch-icon" href="/_nuxt/icons/icon_512x512.8b515b.png" sizes="512x512">
+    <link data-n-head="ssr" rel="manifest" href="/_nuxt/manifest.44b5647d.json" data-hid="manifest">
+    <link data-n-head="ssr" rel="canonical" href="https://www.cherryservers.com/pricing/dedicated-servers">
+    <script data-n-head="ssr" data-hid="gtm-script">
+        if (!window._gtm_init) {
+            window._gtm_init = 1;
+            (function(w, n, d, m, e, p) {
+                w[d] = (w[d] == 1 || n[d] == 'yes' || n[d] == 1 || n[m] == 1 || (w[e] && w[e][p] && w[e][p]())) ? 1 : 0
+            })(window, navigator, 'doNotTrack', 'msDoNotTrack', 'external', 'msTrackingProtectionEnabled');
+            (function(w, d, s, l, x, y) {
+                w[x] = {};
+                w._gtm_inject = function(i) {
+                    if (w.doNotTrack || w[x][i]) return;
+                    w[x][i] = 1;
+                    w[l] = w[l] || [];
+                    w[l].push({
+                        'gtm.start': new Date().getTime(),
+                        event: 'gtm.js'
+                    });
+                    var f = d.getElementsByTagName(s)[0],
+                        j = d.createElement(s);
+                    j.async = true;
+                    j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i;
+                    f.parentNode.insertBefore(j, f);
+                };
+                w[y]('GTM-56MVL7R')
+            })(window, document, 'script', 'dataLayer', '_gtm_ids', '_gtm_inject')
+        }
+    </script>
+    <link rel="preload" href="/_nuxt/abc4052.js" as="script">
+    <link rel="preload" href="/_nuxt/182fef3.js" as="script">
+    <link rel="preload" href="/_nuxt/css/6fafd09.css" as="style">
+    <link rel="preload" href="/_nuxt/7bbc126.js" as="script">
+    <link rel="preload" href="/_nuxt/css/5a1fe7d.css" as="style">
+    <link rel="preload" href="/_nuxt/da73943.js" as="script">
+    <link rel="preload" href="/_nuxt/css/3b52f6d.css" as="style">
+    <link rel="preload" href="/_nuxt/64c1d71.js" as="script">
+    <link rel="preload" href="/_nuxt/7ddccdf.js" as="script">
+    <link rel="preload" href="/_nuxt/4ff0a04.js" as="script">
+    <link rel="preload" href="/_nuxt/css/eba84af.css" as="style">
+    <link rel="preload" href="/_nuxt/20538e1.js" as="script">
+    <link rel="preload" href="/_nuxt/87935f0.js" as="script">
+    <link rel="stylesheet" href="/_nuxt/css/6fafd09.css">
+    <link rel="stylesheet" href="/_nuxt/css/5a1fe7d.css">
+    <link rel="stylesheet" href="/_nuxt/css/3b52f6d.css">
+    <link rel="stylesheet" href="/_nuxt/css/eba84af.css">
+</head>
+
+<body>
+    <noscript data-n-head="ssr" data-hid="gtm-noscript" data-pbody="true"><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56MVL7R&" height="0" width="0" style="display:none;visibility:hidden" title="gtm"></iframe></noscript>
+    <div data-server-rendered="true" id="__nuxt">
+        <!---->
+        <div id="__layout">
+            <div class="cherry-layout cherry-layout--default">
+                <div id="topBar" class="fixed w-full z-50">
+                    <!---->
+                    <div class="relative flex items-center h-8" style="background-color: #fafcfd">
+                        <div class="container">
+                            <div class="flex justify-start sm:justify-between">
+                                <ul class="hidden sm:flex items-center -mx-2 text-2xs">
+                                    <li class="mr-1 last:mr-0"><a href="/legal/privacy-policy" target="" rel="" class="py-1 px-2 hover:bg-white hover:text-coal-base rounded-sm transition-all ease-linear duration-200">
+                                            Privacy Policy
+                                        </a></li>
+                                    <li class="mr-1 last:mr-0"><a href="/legal/terms-of-service" target="" rel="" class="py-1 px-2 hover:bg-white hover:text-coal-base rounded-sm transition-all ease-linear duration-200">
+                                            Terms of Services
+                                        </a></li>
+                                    <li class="mr-1 last:mr-0"><a href="https://docs.cherryservers.com/knowledge" target="_blank" rel="noopener" class="py-1 px-2 hover:bg-white hover:text-coal-base rounded-sm transition-all ease-linear duration-200">
+                                            Knowledgebase
+                                        </a></li>
+                                </ul>
+                                <ul class="flex-1 sm:flex-none flex items-center -mx-2 lg:mx-0 text-2xs">
+                                    <li class="mr-auto sm:mr-1"><a href="https://portal.cherryservers.com/#/login" target="_blank" rel="noopener" class="flex items-center py-1 px-2 hover:bg-blue-base text-blue-base hover:text-white font-600 uppercase rounded-sm transition-all ease-linear duration-200"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-3 -ml-2 feather feather-user">
+                                                <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+                                                <circle cx="12" cy="7" r="4"></circle>
+                                            </svg> <span>Log In</span></a></li>
+                                    <li>
+                                        <div class="w-full el-dropdown"><a href="javascript:void(0)" class="flex items-center justify-between w-12 py-1 px-2 text-2xs hover:bg-white hover:text-coal-base font-600 rounded-sm outline-none whitespace-no-wrap transition-all ease-linear duration-200"><span>
+                                                    USD
+                                                </span> <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-3 -mr-2 feather feather-chevron-down">
+                                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                                </svg></a>
+                                            <ul class="el-dropdown-menu el-popper cherry-navigation__dropdown el-dropdown-menu--small" style="display:none;">
+                                                <li tabindex="-1" class="el-dropdown-menu__item">
+                                                    <!---->
+                                                    EUR
+                                                </li>
+                                                <li aria-disabled="true" class="el-dropdown-menu__item is-disabled">
+                                                    <!---->
+                                                    USD
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="bg-white border-b">
+                        <div class="container">
+                            <div class="flex items-center w-full h-16"><a href="/" class="relative mr-auto z-10">
+                                    <div class="cui-logo" data-v-e9be3da2><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 2606 490" xmlns:xlink="http://www.w3.org/1999/xlink" style="height:36px;" data-v-e9be3da2>
+                                            <path d="M761 316c-12,7 -29,10 -50,10 -13,0 -22,-1 -28,-3 -14,-5 -24,-14 -29,-26 -3,-8 -5,-17 -5,-27 -1,-10 -1,-18 -1,-25 0,-6 0,-13 0,-19 1,-7 2,-13 3,-19 1,-6 3,-11 6,-16 3,-6 7,-10 11,-14 11,-8 26,-12 45,-12 14,0 28,2 40,6 3,1 5,2 7,3l-7 20c-16,-7 -30,-10 -41,-10 -10,0 -18,1 -23,4 -5,2 -9,6 -12,11 -5,8 -7,24 -7,47 0,9 0,17 1,25 1,7 2,14 5,19 5,11 15,17 31,17 16,0 32,-3 47,-8l7 17zm121 -131c-17,0 -34,5 -51,15l0 123 -22 0 0 -222 21 -2 0 85c9,-8 21,-13 35,-17 6,-1 13,-2 21,-2 7,0 14,1 20,3 6,2 11,4 14,8 7,7 10,20 10,39l0 108 -22 0 0 -104c0,-13 -1,-21 -4,-24 -2,-4 -5,-6 -9,-8 -3,-1 -7,-2 -13,-2zm227 130c-18,7 -38,11 -60,11 -13,0 -23,-2 -32,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 5,-47 17,-58 10,-10 27,-15 52,-15 23,0 39,6 48,18 4,5 7,12 8,20 2,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -38,-1 -50,-3 0,20 2,34 7,42 6,9 19,14 37,14 19,0 36,-3 53,-11l7 19zm-21 -80l0 -12c0,-14 -2,-24 -8,-29 -6,-7 -16,-10 -30,-10 -18,0 -30,4 -36,11 -6,7 -9,21 -9,40l83 0zm133 -48c-11,0 -23,5 -34,16l0 120 -22 0 0 -155 19 0 2 20c4,-6 9,-11 14,-14 4,-4 8,-6 11,-7 5,-1 9,-2 13,-2 4,0 8,1 14,3l-2 20c-4,-1 -9,-1 -15,-1zm111 0c-11,0 -22,5 -34,16l0 120 -21 0 0 -155 19 0 2 20c4,-6 8,-11 13,-14 5,-4 9,-6 12,-7 4,-1 8,-2 12,-2 4,0 9,1 15,3l-2 20c-5,-1 -10,-1 -16,-1zm53 174c6,2 11,3 15,3 4,0 7,0 8,0 2,0 3,-1 4,-2 3,-1 6,-4 7,-8 4,-9 7,-18 10,-29l-60 -157 24 0 40 114 6 20 6 -20 36 -114 22 0 -65 192c-5,15 -16,22 -33,22 -11,0 -20,-1 -26,-4l6 -17zm226 -69c18,10 36,15 54,15 15,0 24,-5 26,-16 1,-3 2,-8 2,-13 0,-5 -1,-9 -2,-12 -1,-3 -3,-5 -6,-7 -3,-1 -7,-2 -12,-3 -4,-1 -10,-2 -18,-3 -7,-1 -14,-3 -20,-4 -6,-2 -11,-4 -15,-7 -9,-6 -14,-17 -13,-32l0 -3c0,-16 5,-28 15,-34 10,-7 27,-9 50,-7 16,1 29,4 38,8l-6 20c-10,-5 -23,-8 -38,-10 -4,0 -8,-1 -12,-1 -4,0 -8,1 -11,1 -3,1 -6,2 -8,4 -4,3 -7,9 -7,19 0,10 3,17 9,20 6,3 14,5 22,6 8,1 15,2 21,3 5,1 10,2 14,3 4,2 8,4 11,7 7,6 10,17 10,32 -1,27 -12,42 -34,46 -6,1 -13,2 -19,2 -7,0 -13,-1 -19,-1 -5,-1 -11,-2 -16,-4 -9,-3 -18,-6 -26,-11l10 -18zm277 23c-18,7 -38,11 -59,11 -13,0 -24,-2 -33,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 6,-47 17,-58 11,-10 28,-15 52,-15 24,0 40,6 49,18 4,5 6,12 8,20 1,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -39,-1 -51,-3 0,20 3,34 8,42 6,9 18,14 37,14 18,0 36,-3 53,-11l6 19zm-20 -80l0 -12c0,-14 -3,-24 -8,-29 -6,-7 -16,-10 -31,-10 -17,0 -29,4 -36,11 -6,7 -9,21 -9,40l84 0zm132 -48c-11,0 -22,5 -34,16l0 120 -21 0 0 -155 19 0 2 20c4,-6 8,-11 13,-14 5,-4 9,-6 12,-7 4,-1 8,-2 12,-2 4,0 9,1 15,3l-2 20c-5,-1 -10,-1 -16,-1zm38 -19l23 0 41 127 4 12 3 -12 39 -127 24 0 -52 155 -29 0 -53 -155zm296 147c-18,7 -38,11 -60,11 -13,0 -23,-2 -32,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 5,-47 17,-58 10,-10 27,-15 52,-15 23,0 39,6 48,18 4,5 7,12 8,20 2,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -38,-1 -50,-3 0,20 2,34 7,42 6,9 19,14 37,14 19,0 36,-3 53,-11l7 19zm-21 -80l0 -12c0,-14 -2,-24 -8,-29 -6,-7 -16,-10 -30,-10 -18,0 -30,4 -36,11 -6,7 -9,21 -9,40l83 0zm133 -48c-11,0 -23,5 -34,16l0 120 -22 0 0 -155 19 0 2 20c4,-6 9,-11 14,-14 4,-4 8,-6 11,-7 5,-1 9,-2 13,-2 4,0 8,1 14,3l-2 20c-4,-1 -9,-1 -15,-1zm56 105c18,10 36,15 54,15 15,0 24,-5 26,-16 1,-3 2,-8 2,-13 0,-5 -1,-9 -2,-12 -1,-3 -3,-5 -6,-7 -3,-1 -7,-2 -12,-3 -4,-1 -10,-2 -18,-3 -7,-1 -14,-3 -20,-4 -6,-2 -11,-4 -15,-7 -9,-6 -14,-17 -13,-32l0 -3c0,-16 5,-28 15,-34 10,-7 27,-9 50,-7 16,1 29,4 38,8l-6 20c-10,-5 -23,-8 -38,-10 -4,0 -8,-1 -12,-1 -4,0 -8,1 -11,1 -3,1 -6,2 -8,4 -4,3 -7,9 -7,19 0,10 3,17 9,20 7,3 14,5 22,6 8,1 15,2 21,3 5,1 10,2 14,3 4,2 8,4 11,7 7,6 10,17 10,32 -1,27 -12,42 -34,46 -6,1 -13,2 -19,2 -7,0 -13,-1 -19,-1 -5,-1 -10,-2 -16,-4 -9,-3 -18,-6 -26,-11l10 -18z" class="cui-logo__name" data-v-e9be3da2></path>
+                                            <path d="M104 44c107,-74 253,-52 332,48 -14,18 -30,34 -47,46 -13,9 -26,16 -40,22 -1,0 -1,0 -2,1 -7,3 -18,3 -23,-5 -35,-57 -97,-55 -147,-9 -49,45 -67,112 -30,166 38,54 107,59 166,29 59,-30 79,-85 44,-136 -4,-6 0,-11 6,-14 0,0 1,0 1,0 16,-7 31,-16 45,-25 17,-13 33,-28 48,-44 63,108 33,249 -72,322 -111,78 -263,51 -341,-60 -77,-111 -50,-263 60,-341z" class="cui-logo__shape" data-v-e9be3da2></path>
+                                        </svg></div>
+                                </a>
+                                <div class="flex items-center h-full">
+                                    <div class="fixed lg:relative h-screen lg:h-auto top-0 inset-x-0 lg:inset-auto pt-24 lg:pt-0 hidden lg:block" style="padding-top:0px;">
+                                        <div class="h-full max-h-screen bg-white border-t lg:border-0 shadow-raised lg:shadow-none overflow-y-scroll lg:overflow-y-visible">
+                                            <nav aria-label="primary">
+                                                <ul class="lg:flex items-center w-full p-5 lg:p-2">
+                                                    <li class="group relative lg:mr-1 last:mr-0 border-b last:border-b-0 lg:border-b-0">
+                                                        <div class="-my-px -mx-3 lg:m-0 py-2 px-3 lg:p-0 rounded-sm lg:rounded-none"><a href="javascript:void(0);" class="flex items-center justify-between lg:justify-start py-1 lg:py-3 lg:px-3 text-base group-hover:text-red-base hover:text-red-base font-600 rounded-sm cursor-pointer z-10 transition-all ease-linear duration-200 text-coal-base"><span>Pricing</span> <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 lg:h-4 -mr-2 transition-all ease-linear duration-200 feather feather-chevron-down text-coal-base">
+                                                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                                                </svg></a></div>
+                                                        <div class="dropdown lg:absolute lg:w-56" style="display:none;" data-v-9b2014b2>
+                                                            <div class="dropdown-inner relative mt-2 lg:mt-3 lg:-mx-2 p-2 bg-white lg:border lg:rounded-sm lg:shadow-raised" data-v-9b2014b2>
+                                                                <ul data-v-9b2014b2>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/pricing/dedicated-servers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Dedicated Servers
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/pricing/virtual-servers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Virtual Servers
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/server-customizer" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Custom Server Builder
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="group relative lg:mr-1 last:mr-0 border-b last:border-b-0 lg:border-b-0">
+                                                        <div class="-my-px -mx-3 lg:m-0 py-2 px-3 lg:p-0 rounded-sm lg:rounded-none"><a href="javascript:void(0);" class="flex items-center justify-between lg:justify-start py-1 lg:py-3 lg:px-3 text-base group-hover:text-red-base hover:text-red-base font-600 rounded-sm cursor-pointer z-10 transition-all ease-linear duration-200 text-coal-base"><span>Products</span> <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 lg:h-4 -mr-2 transition-all ease-linear duration-200 feather feather-chevron-down text-coal-base">
+                                                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                                                </svg></a></div>
+                                                        <div class="dropdown lg:absolute lg:w-56" style="display:none;" data-v-9b2014b2>
+                                                            <div class="dropdown-inner relative mt-2 lg:mt-3 lg:-mx-2 p-2 bg-white lg:border lg:rounded-sm lg:shadow-raised" data-v-9b2014b2>
+                                                                <ul data-v-9b2014b2>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/bare-metal-dedicated-servers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Dedicated Servers
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/virtual-servers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Virtual Servers
+                                                                        </a>
+                                                                        <ul class="lg:border-t border-snow-l2" data-v-9b2014b2>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/virtual-servers#vps" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Cloud VPS
+                                                                                </a></li>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/virtual-servers#vds" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Cloud VDS
+                                                                                </a></li>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/virtual-servers#smart" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Smart VDS
+                                                                                </a></li>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/virtual-servers#storage-vps" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Storage VPS
+                                                                                </a></li>
+                                                                        </ul>
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/spot-servers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Spot Servers
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/services/bare-metal-cloud-platform" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Cloud Platform
+                                                                        </a>
+                                                                        <ul class="lg:border-t border-snow-l2" data-v-9b2014b2>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/services/bare-metal-compute-infrastructure" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Infrastructure Services
+                                                                                </a></li>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/services/bare-metal-cloud-networking" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Networking Services
+                                                                                </a></li>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/services/cloud-storage" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Cloud Storage
+                                                                                </a></li>
+                                                                            <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/services/bare-metal-cloud-security-support" target="" class="block py-1 lg:py-3 lg:px-4 pl-5 lg:pl-8 lg:hover:bg-snow-l3 hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                                    Security &amp; Support
+                                                                                </a></li>
+                                                                        </ul>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="group relative lg:mr-1 last:mr-0 border-b last:border-b-0 lg:border-b-0">
+                                                        <div class="-my-px -mx-3 lg:m-0 py-2 px-3 lg:p-0 rounded-sm lg:rounded-none"><a href="javascript:void(0);" class="flex items-center justify-between lg:justify-start py-1 lg:py-3 lg:px-3 text-base group-hover:text-red-base hover:text-red-base font-600 rounded-sm cursor-pointer z-10 transition-all ease-linear duration-200 text-coal-base"><span>Solutions</span> <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 lg:h-4 -mr-2 transition-all ease-linear duration-200 feather feather-chevron-down text-coal-base">
+                                                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                                                </svg></a></div>
+                                                        <div class="dropdown lg:absolute lg:w-56" style="display:none;" data-v-9b2014b2>
+                                                            <div class="dropdown-inner relative mt-2 lg:mt-3 lg:-mx-2 p-2 bg-white lg:border lg:rounded-sm lg:shadow-raised" data-v-9b2014b2>
+                                                                <ul data-v-9b2014b2>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/dedicated-gpu-servers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            GPU Computing
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/dedicated-streaming-servers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Streaming Servers
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/managed-cloud-hosting" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Managed Hosting
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/affiliate" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Affiliate Program
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/services/bare-metal-cloud-reseller-program" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Reseller Program
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="group relative lg:mr-1 last:mr-0 border-b last:border-b-0 lg:border-b-0">
+                                                        <div class="-my-px -mx-3 lg:m-0 py-2 px-3 lg:p-0 rounded-sm lg:rounded-none"><a href="javascript:void(0);" class="flex items-center justify-between lg:justify-start py-1 lg:py-3 lg:px-3 text-base group-hover:text-red-base hover:text-red-base font-600 rounded-sm cursor-pointer z-10 transition-all ease-linear duration-200 text-coal-base"><span>Resources</span> <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 lg:h-4 -mr-2 transition-all ease-linear duration-200 feather feather-chevron-down text-coal-base">
+                                                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                                                </svg></a></div>
+                                                        <div class="dropdown lg:absolute lg:w-56" style="display:none;" data-v-9b2014b2>
+                                                            <div class="dropdown-inner relative mt-2 lg:mt-3 lg:-mx-2 p-2 bg-white lg:border lg:rounded-sm lg:shadow-raised" data-v-9b2014b2>
+                                                                <ul data-v-9b2014b2>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/resources/api-and-integrations" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            API &amp; Integrations
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="https://docs.cherryservers.com/knowledge" target="_blank" rel="noopener" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Knowledgebase
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/resources/case-studies" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Case studies
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="https://blog.cherryservers.com" target="_blank" rel="noopener" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Blog
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <li class="group relative lg:mr-1 last:mr-0 border-b last:border-b-0 lg:border-b-0">
+                                                        <div class="-my-px -mx-3 lg:m-0 py-2 px-3 lg:p-0 rounded-sm lg:rounded-none"><a href="/company" class="flex items-center justify-between lg:justify-start py-1 lg:py-3 lg:px-3 text-base group-hover:text-red-base hover:text-red-base font-600 rounded-sm cursor-pointer z-10 transition-all ease-linear duration-200 text-coal-base"><span>Company</span> <svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="h-4 lg:h-4 -mr-2 transition-all ease-linear duration-200 feather feather-chevron-down text-coal-base">
+                                                                    <polyline points="6 9 12 15 18 9"></polyline>
+                                                                </svg></a></div>
+                                                        <div class="dropdown lg:absolute lg:w-56" style="display:none;" data-v-9b2014b2>
+                                                            <div class="dropdown-inner relative mt-2 lg:mt-3 lg:-mx-2 p-2 bg-white lg:border lg:rounded-sm lg:shadow-raised" data-v-9b2014b2>
+                                                                <ul data-v-9b2014b2>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/company#contacts" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Contact us
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/company" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            About us
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/careers" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            Careers
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                    <li class="-my-px py-1 lg:p-0 lg:border-b border-snow-l2 last:border-0 rounded-sm" data-v-9b2014b2><a href="/resources/projects" target="" rel="" class="block py-1 lg:py-3 lg:px-4 lg:hover:bg-snow-l3 text-coal-base hover:text-blue-base text-sm font-600 rounded-sm transition-all ease-linear duration-100" data-v-9b2014b2 data-v-9b2014b2>
+                                                                            EU Projects
+                                                                        </a>
+                                                                        <!---->
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </li>
+                                                    <!---->
+                                                </ul>
+                                            </nav>
+                                        </div>
+                                    </div>
+                                    <div class="block lg:hidden ml-5 lg:ml-0 z-40"><button class="flex items-center justify-center w-auto lg:w-12 h-12 lg:hover:bg-snow-l3 hover:text-red-base rounded-sm focus:outline-none text-coal-base"><svg viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg" class="fill-current h-5 w-5">
+                                                <title>Navigation</title>
+                                                <path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"></path>
+                                            </svg></button></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="cherry-view" style="padding-top:undefinedpx;">
+                    <div class="py-4 whitespace-no-wrap scrolling-touch overflow-y-auto fixed top-0 bg-white w-full z-20" style="top:undefinedpx;">
+                        <div class="container">
+                            <ul>
+                                <li id="subNavigationItem_0" class="inline-block mr-5 md:mr-8 whitespace-no-wrap"><a href="/pricing/dedicated-servers" class="flex items-center justify-between lg:justify-start text-base rounded-sm transition-all ease-linear duration-200 text-blue-base font-600">
+                                        Dedicated Servers
+                                    </a></li>
+                                <li id="subNavigationItem_1" class="inline-block mr-5 md:mr-8 whitespace-no-wrap"><a href="/pricing/virtual-servers" class="flex items-center justify-between lg:justify-start text-base rounded-sm transition-all ease-linear duration-200 text-coal-d3 hover:text-coal-base">
+                                        Virtual Servers
+                                    </a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <header class="bg-gradient-to-b from-snow-l1 to-snow-l3 pt-20 pb-10 md:pt-24 md:pb-14 lg:pt-28 lg:pb-16 text-md leading-tight">
+                        <div class="container">
+                            <div class="text-center">
+                                <h1 class="text-coal-base text-xl sm:text-2xl md:text-3xl">
+                                    Dedicated Servers
+                                </h1>
+                                <div class="mt-3 text-base sm:text-md leading-relaxed">
+                                    Raw single-tenant compute with hardware level control and zero virtualization, deployed within 10 minutes
+                                </div>
+                            </div>
+                        </div>
+                    </header>
+                    <section class="pb-12 lg:pb-20">
+                        <div>
+                            <div style="height:nullpx;">
+                                <div class="w-full z-30" style="top:undefinedpx;">
+                                    <div class="bg-snow-l1 border-t border-b">
+                                        <div class="container">
+                                            <div class="flex flex-col md:flex-row items-end justify-between md:h-14 md:space-x-3">
+                                                <div class="hidden md:block">
+                                                    <!---->
+                                                </div>
+                                                <div class="flex-shrink-0 flex flex-row items-center self-center justify-between w-full md:w-auto space-x-1 sm:space-x-2 lg:space-x-3 py-1">
+                                                    <div class="w-1/2 sm:w-auto">
+                                                        <!---->
+                                                    </div>
+                                                    <div class="w-1/2 sm:w-auto">
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <!---->
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="relative">
+                                <div class="container">
+                                    <div class="xl:shadow-poped mt-6">
+                                        <div class="hidden xl:flex flex-row py-4 text-gray text-sm uppercase rounded-t-sm border">
+                                            <div class="w-52 pl-12 pr-2">
+                                                Plan
+                                            </div>
+                                            <div class="w-44 px-2">
+                                                CPU
+                                            </div>
+                                            <div class="w-28 px-2">
+                                                RAM
+                                            </div>
+                                            <div class="px-2 w-40">
+                                                Storage
+                                            </div>
+                                            <div class="px-2 w-40">
+                                                Bandwidth
+                                            </div>
+                                            <!---->
+                                            <div class="px-2">
+                                                Price excl. VAT</div>
+                                        </div>
+                                        <div class="flex flex-wrap justify-center sm:justify-start -mx-2 md:-my-3 md:-mx-5 lg:-mx-2 xl:m-0">
+                                            <div class="flex items-center justify-center w-full h-40 bg-white border">
+                                                <div class="space-y-1 text-center" style="display:none;"><span class="block text-lg">No plans were found</span> <span class="block text-md">Adjust filters or <a href="mailto:sales@cherryservers.com" class="text-blue-base hover:underline">contact sales</a> for custom requests.</span></div>
+                                            </div>
+                                        </div>
+                                        <!---->
+                                        <!---->
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="cherry-section cherry-section--featurelinks cherry-section--no-padding">
+                        <div class="cherry-section__body">
+                            <div class="container">
+                                <div class="cherry-featurelinks">
+                                    <div class="cherry-featurelinks__item">
+                                        <div class="cherry-featurelinks__item-image"><img data-src="/_nuxt/img/93832fa.svg" alt="Make a request" class="lazyload"></div>
+                                        <div class="cherry-featurelinks__item-content">
+                                            <div class="cherry-featurelinks__title">
+                                                Custom Servers
+                                            </div>
+                                            <div class="cherry-featurelinks__description">
+                                                <p>Build specialized cloud infrastructure with dedicated servers, delivered within a few hours</p>
+                                            </div>
+                                            <div class="mt-4"><a href="/server-customizer" class="text-blue-base text-md font-600 hover:text-blue-d1 active:text-blue-d2 flex items-center">
+                                                    Build Your Server
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ml-1 feather feather-arrow-right">
+                                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                                    </svg></a></div>
+                                        </div>
+                                    </div>
+                                    <div class="cherry-featurelinks__item">
+                                        <div class="cherry-featurelinks__item-image"><img data-src="/_nuxt/img/45b2882.svg" alt="Make a request" class="lazyload"></div>
+                                        <div class="cherry-featurelinks__item-content">
+                                            <div class="cherry-featurelinks__title">
+                                                Custom Request
+                                            </div>
+                                            <div class="cherry-featurelinks__description">
+                                                <p>Plan your project needs upfront, and request even the most sophisticated hardware for the long term</p>
+                                            </div>
+                                            <div class="mt-4"><a href="#" class="text-blue-base text-md font-600 hover:text-blue-d1 active:text-blue-d2 flex items-center">
+                                                    Make a Request
+                                                    <svg xmlns="http://www.w3.org/2000/svg" width="1.5em" height="1.5em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="ml-1 feather feather-arrow-right">
+                                                        <line x1="5" y1="12" x2="19" y2="12"></line>
+                                                        <polyline points="12 5 19 12 12 19"></polyline>
+                                                    </svg></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!---->
+                    </section>
+                    <section data-fetch-key="SectionPaymentOptions:0" class="py-12 md:py-16 lg:py-20 border-t">
+                        <div class="container">
+                            <div class="mb-10 text-center">
+                                <h2 class="mb-4 text-coal-base text-xl sm:text-2xl md:text-3xl">Supported Payment Options</h2>
+                                <p class="text-lg leading-relaxed">We support a wide variety of payment options. Choose Bitcoin, wire transfer, or anything in between.</p>
+                            </div>
+                            <div class="flex flex-wrap items-center justify-center -mx-4">
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/2003f78.png" alt="Bitcoin" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/f4014e0.png" alt="Visa" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/003c1fa.png" alt="MasterCard" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/bf260fa.png" alt="PayPal" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/c388ffc.png" alt="Western Union" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/5bf200e.png" alt="JCB Diners Club" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/6f6d9af.png" alt="CashU" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                                <div class="flex items-center justify-center w-1/2 sm:w-1/3 md:w-1/4 lg:w-1/6 h-20 px-4"><img data-src="/_nuxt/img/d99e6b3.png" alt="SafetyPay" class="lazyload" style="max-height: 50px; max-width: 120px;"></div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="cherry-section cherry-section--deploymentOptions cherry-gradient--gray">
+                        <div class="cherry-section__head">
+                            <div class="container">
+                                <div class="text-center">
+                                    <h2 class="cherry-section__title">
+                                        Check how we compare with others
+                                    </h2>
+                                    <div class="cherry-section__description">
+                                        Compare Cherry Servers Bare Metal with some other vendors in the market
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cherry-section__body">
+                            <div class="container">
+                                <div class="cherry-deploymentCompare">
+                                    <div class="cherry-deploymentCompare__body">
+                                        <div class="cherry-deploymentCompare__headings">
+                                            <div class="cherry-deploymentCompare__cell"></div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Server
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    CPU
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Memory
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Storage
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Bandwidth
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Included traffic
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Additional traffic price
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Customizable
+                                                </div>
+                                            </div>
+                                            <div class="cherry-deploymentCompare__cell">
+                                                <div class="cherry-deploymentCompare__cell-title">
+                                                    Starting from
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="cherry-deploymentCompare__columns">
+                                            <div class="w-full">
+                                                <div class="swiper-container">
+                                                    <div class="swiper-wrapper">
+                                                        <div class="cherry-deploymentCompare__column cherry-deploymentCompare__column--highlight swiper-slide">
+                                                            <div class="cherry-deploymentCompare__cell cherry-deploymentCompare__cell--heading">
+                                                                <div class="cui-logo" data-v-e9be3da2><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 2606 490" xmlns:xlink="http://www.w3.org/1999/xlink" style="height:28px;" data-v-e9be3da2>
+                                                                        <path d="M761 316c-12,7 -29,10 -50,10 -13,0 -22,-1 -28,-3 -14,-5 -24,-14 -29,-26 -3,-8 -5,-17 -5,-27 -1,-10 -1,-18 -1,-25 0,-6 0,-13 0,-19 1,-7 2,-13 3,-19 1,-6 3,-11 6,-16 3,-6 7,-10 11,-14 11,-8 26,-12 45,-12 14,0 28,2 40,6 3,1 5,2 7,3l-7 20c-16,-7 -30,-10 -41,-10 -10,0 -18,1 -23,4 -5,2 -9,6 -12,11 -5,8 -7,24 -7,47 0,9 0,17 1,25 1,7 2,14 5,19 5,11 15,17 31,17 16,0 32,-3 47,-8l7 17zm121 -131c-17,0 -34,5 -51,15l0 123 -22 0 0 -222 21 -2 0 85c9,-8 21,-13 35,-17 6,-1 13,-2 21,-2 7,0 14,1 20,3 6,2 11,4 14,8 7,7 10,20 10,39l0 108 -22 0 0 -104c0,-13 -1,-21 -4,-24 -2,-4 -5,-6 -9,-8 -3,-1 -7,-2 -13,-2zm227 130c-18,7 -38,11 -60,11 -13,0 -23,-2 -32,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 5,-47 17,-58 10,-10 27,-15 52,-15 23,0 39,6 48,18 4,5 7,12 8,20 2,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -38,-1 -50,-3 0,20 2,34 7,42 6,9 19,14 37,14 19,0 36,-3 53,-11l7 19zm-21 -80l0 -12c0,-14 -2,-24 -8,-29 -6,-7 -16,-10 -30,-10 -18,0 -30,4 -36,11 -6,7 -9,21 -9,40l83 0zm133 -48c-11,0 -23,5 -34,16l0 120 -22 0 0 -155 19 0 2 20c4,-6 9,-11 14,-14 4,-4 8,-6 11,-7 5,-1 9,-2 13,-2 4,0 8,1 14,3l-2 20c-4,-1 -9,-1 -15,-1zm111 0c-11,0 -22,5 -34,16l0 120 -21 0 0 -155 19 0 2 20c4,-6 8,-11 13,-14 5,-4 9,-6 12,-7 4,-1 8,-2 12,-2 4,0 9,1 15,3l-2 20c-5,-1 -10,-1 -16,-1zm53 174c6,2 11,3 15,3 4,0 7,0 8,0 2,0 3,-1 4,-2 3,-1 6,-4 7,-8 4,-9 7,-18 10,-29l-60 -157 24 0 40 114 6 20 6 -20 36 -114 22 0 -65 192c-5,15 -16,22 -33,22 -11,0 -20,-1 -26,-4l6 -17zm226 -69c18,10 36,15 54,15 15,0 24,-5 26,-16 1,-3 2,-8 2,-13 0,-5 -1,-9 -2,-12 -1,-3 -3,-5 -6,-7 -3,-1 -7,-2 -12,-3 -4,-1 -10,-2 -18,-3 -7,-1 -14,-3 -20,-4 -6,-2 -11,-4 -15,-7 -9,-6 -14,-17 -13,-32l0 -3c0,-16 5,-28 15,-34 10,-7 27,-9 50,-7 16,1 29,4 38,8l-6 20c-10,-5 -23,-8 -38,-10 -4,0 -8,-1 -12,-1 -4,0 -8,1 -11,1 -3,1 -6,2 -8,4 -4,3 -7,9 -7,19 0,10 3,17 9,20 6,3 14,5 22,6 8,1 15,2 21,3 5,1 10,2 14,3 4,2 8,4 11,7 7,6 10,17 10,32 -1,27 -12,42 -34,46 -6,1 -13,2 -19,2 -7,0 -13,-1 -19,-1 -5,-1 -11,-2 -16,-4 -9,-3 -18,-6 -26,-11l10 -18zm277 23c-18,7 -38,11 -59,11 -13,0 -24,-2 -33,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 6,-47 17,-58 11,-10 28,-15 52,-15 24,0 40,6 49,18 4,5 6,12 8,20 1,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -39,-1 -51,-3 0,20 3,34 8,42 6,9 18,14 37,14 18,0 36,-3 53,-11l6 19zm-20 -80l0 -12c0,-14 -3,-24 -8,-29 -6,-7 -16,-10 -31,-10 -17,0 -29,4 -36,11 -6,7 -9,21 -9,40l84 0zm132 -48c-11,0 -22,5 -34,16l0 120 -21 0 0 -155 19 0 2 20c4,-6 8,-11 13,-14 5,-4 9,-6 12,-7 4,-1 8,-2 12,-2 4,0 9,1 15,3l-2 20c-5,-1 -10,-1 -16,-1zm38 -19l23 0 41 127 4 12 3 -12 39 -127 24 0 -52 155 -29 0 -53 -155zm296 147c-18,7 -38,11 -60,11 -13,0 -23,-2 -32,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 5,-47 17,-58 10,-10 27,-15 52,-15 23,0 39,6 48,18 4,5 7,12 8,20 2,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -38,-1 -50,-3 0,20 2,34 7,42 6,9 19,14 37,14 19,0 36,-3 53,-11l7 19zm-21 -80l0 -12c0,-14 -2,-24 -8,-29 -6,-7 -16,-10 -30,-10 -18,0 -30,4 -36,11 -6,7 -9,21 -9,40l83 0zm133 -48c-11,0 -23,5 -34,16l0 120 -22 0 0 -155 19 0 2 20c4,-6 9,-11 14,-14 4,-4 8,-6 11,-7 5,-1 9,-2 13,-2 4,0 8,1 14,3l-2 20c-4,-1 -9,-1 -15,-1zm56 105c18,10 36,15 54,15 15,0 24,-5 26,-16 1,-3 2,-8 2,-13 0,-5 -1,-9 -2,-12 -1,-3 -3,-5 -6,-7 -3,-1 -7,-2 -12,-3 -4,-1 -10,-2 -18,-3 -7,-1 -14,-3 -20,-4 -6,-2 -11,-4 -15,-7 -9,-6 -14,-17 -13,-32l0 -3c0,-16 5,-28 15,-34 10,-7 27,-9 50,-7 16,1 29,4 38,8l-6 20c-10,-5 -23,-8 -38,-10 -4,0 -8,-1 -12,-1 -4,0 -8,1 -11,1 -3,1 -6,2 -8,4 -4,3 -7,9 -7,19 0,10 3,17 9,20 7,3 14,5 22,6 8,1 15,2 21,3 5,1 10,2 14,3 4,2 8,4 11,7 7,6 10,17 10,32 -1,27 -12,42 -34,46 -6,1 -13,2 -19,2 -7,0 -13,-1 -19,-1 -5,-1 -10,-2 -16,-4 -9,-3 -18,-6 -26,-11l10 -18z" class="cui-logo__name" data-v-e9be3da2></path>
+                                                                        <path d="M104 44c107,-74 253,-52 332,48 -14,18 -30,34 -47,46 -13,9 -26,16 -40,22 -1,0 -1,0 -2,1 -7,3 -18,3 -23,-5 -35,-57 -97,-55 -147,-9 -49,45 -67,112 -30,166 38,54 107,59 166,29 59,-30 79,-85 44,-136 -4,-6 0,-11 6,-14 0,0 1,0 1,0 16,-7 31,-16 45,-25 17,-13 33,-28 48,-44 63,108 33,249 -72,322 -111,78 -263,51 -341,-60 -77,-111 -50,-263 60,-341z" class="cui-logo__shape" data-v-e9be3da2></path>
+                                                                    </svg></div>
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                E5-1620v4
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                4 @ 3.5GHz
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                32GB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                2x 240GB SSD
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                3Gbps
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                30TB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                $
+                                                                <!---->1 / TB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-base feather feather-check">
+                                                                    <polyline points="20 6 9 17 4 12"></polyline>
+                                                                </svg></div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                <div class="cherry-deploymentCompare__cell-price">
+                                                                    $
+                                                                    <!---->109 / month
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cherry-deploymentCompare__column swiper-slide">
+                                                            <div class="cherry-deploymentCompare__cell cherry-deploymentCompare__cell--heading">
+                                                                Internap
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                E3-1270v2
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                4 @ 3.5GHz
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                8GB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                2x 240GB SSD
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                1Gbps
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                10TB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                $
+                                                                <!---->100 / TB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-base feather feather-check">
+                                                                    <polyline points="20 6 9 17 4 12"></polyline>
+                                                                </svg></div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                <div class="cherry-deploymentCompare__cell-price">
+                                                                    $
+                                                                    <!---->179 / month
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="cherry-deploymentCompare__column swiper-slide">
+                                                            <div class="cherry-deploymentCompare__cell cherry-deploymentCompare__cell--heading">
+                                                                IBM Cloud
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                E3-1270v3
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                4 @ 3.5GHz
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                32GB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                1TB HDD
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                100Mbps
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                20TB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                $
+                                                                <!---->90 / TB
+                                                            </div>
+                                                            <div class="cherry-deploymentCompare__cell"><svg xmlns="http://www.w3.org/2000/svg" width="24px" height="24px" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="text-blue-base feather feather-check">
+                                                                    <polyline points="20 6 9 17 4 12"></polyline>
+                                                                </svg></div>
+                                                            <div class="cherry-deploymentCompare__cell">
+                                                                <div class="cherry-deploymentCompare__cell-price">
+                                                                    $
+                                                                    <!---->254 / month
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="cherry-deploymentCompare__footer">
+                                        * All information, prices, and data were last verified on January 2020. To report any incorrect or outdated information, please <a href="/company/#contacts">
+                                            get in touch with us
+                                        </a>.
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </section>
+                    <section class="cherry-section border-t" data-v-a741d61a>
+                        <div class="cherry-section__head" data-v-a741d61a>
+                            <div class="container" data-v-a741d61a>
+                                <div class="text-center" data-v-a741d61a>
+                                    <h2 class="cherry-section__title" data-v-a741d61a>
+                                        Our Client Success Stories
+                                    </h2>
+                                    <div class="cherry-section__description" data-v-a741d61a>
+                                        Read Cherry Servers client success stories to see how we helped some of our clients reach their goals
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="cherry-section__body" data-v-a741d61a>
+                            <div class="container" data-v-a741d61a>
+                                <div class="w-full" data-v-a741d61a>
+                                    <div class="swiper-container" data-v-a741d61a>
+                                        <div class="swiper-wrapper flex flex-row items-stretch" data-v-a741d61a>
+                                            <div class="swiper-slide" data-v-a741d61a><a href="/resources/case-studies/tempesta" class="group flex items-center justify-center h-20 md:h-24 p-4 lg:py-5 lg:px-8 bg-white rounded-sm shadow-raised hover:shadow-poped transform hover:scale-110 transition-all ease-linear duration-100" data-v-a741d61a><img data-src="/_nuxt/img/1a4ee45.png" alt="Tempesta" class="lazyload" data-v-a741d61a></a></div>
+                                            <div class="swiper-slide" data-v-a741d61a><a href="/resources/case-studies/verbio" class="group flex items-center justify-center h-20 md:h-24 p-4 lg:py-5 lg:px-8 bg-white rounded-sm shadow-raised hover:shadow-poped transform hover:scale-110 transition-all ease-linear duration-100" data-v-a741d61a><img data-src="/_nuxt/img/19e354a.png" alt="Verbio" class="lazyload" data-v-a741d61a></a></div>
+                                            <div class="swiper-slide" data-v-a741d61a><a href="/resources/case-studies/virtonomics" class="group flex items-center justify-center h-20 md:h-24 p-4 lg:py-5 lg:px-8 bg-white rounded-sm shadow-raised hover:shadow-poped transform hover:scale-110 transition-all ease-linear duration-100" data-v-a741d61a><img data-src="/_nuxt/img/7f961e9.png" alt="Virtonomics" class="lazyload" data-v-a741d61a></a></div>
+                                            <div class="swiper-slide" data-v-a741d61a><a href="/resources/case-studies/debesis" class="group flex items-center justify-center h-20 md:h-24 p-4 lg:py-5 lg:px-8 bg-white rounded-sm shadow-raised hover:shadow-poped transform hover:scale-110 transition-all ease-linear duration-100" data-v-a741d61a><img data-src="/_nuxt/img/dc5d2df.png" alt="Debesis.lt" class="lazyload" data-v-a741d61a></a></div>
+                                            <div class="swiper-slide" data-v-a741d61a><a href="/resources/case-studies/mkc-limited" class="group flex items-center justify-center h-20 md:h-24 p-4 lg:py-5 lg:px-8 bg-white rounded-sm shadow-raised hover:shadow-poped transform hover:scale-110 transition-all ease-linear duration-100" data-v-a741d61a><img data-src="/_nuxt/img/94d938d.png" alt="MKC Limited" class="lazyload" data-v-a741d61a></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!---->
+                    </section>
+                </div>
+                <div class="cherry-footer">
+                    <div class="container vue-portal-target">
+                        <div class="flex flex-col lg:flex-row items-center justify-center lg:justify-between h-48 -mb-10 px-5 md:px-12 lg:px-16 bg-blue-d2 bg-center bg-cover rounded shadow-poped transform -translate-y-24" style="background-image:url(/_nuxt/img/448bff8.svg);">
+                            <div class="mb-6 lg:mb-0 text-white text-xl sm:text-2xl lg:text-3xl leading-normal text-center lg:text-left">Deploy your new servers <br class='sm:hidden'>in 3 minutes</div>
+                            <div class="flex-shrink-0"><a href="https://portal.cherryservers.com/#/register" target="_blank" rel="noopener" class="cui-button cui-button--large cui-button--red"><span>Sign Up</span></a></div>
+                        </div>
+                    </div>
+                    <div class="cherry-footer__primary">
+                        <div class="container">
+                            <div class="cherry-footer__contacts">
+                                <div class="cherry-footer__widget">
+                                    <div class="cui-logo cui-logo--monochrome" data-v-e9be3da2><svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" version="1.1" viewBox="0 0 2606 490" xmlns:xlink="http://www.w3.org/1999/xlink" style="height:36px;" data-v-e9be3da2>
+                                            <path d="M761 316c-12,7 -29,10 -50,10 -13,0 -22,-1 -28,-3 -14,-5 -24,-14 -29,-26 -3,-8 -5,-17 -5,-27 -1,-10 -1,-18 -1,-25 0,-6 0,-13 0,-19 1,-7 2,-13 3,-19 1,-6 3,-11 6,-16 3,-6 7,-10 11,-14 11,-8 26,-12 45,-12 14,0 28,2 40,6 3,1 5,2 7,3l-7 20c-16,-7 -30,-10 -41,-10 -10,0 -18,1 -23,4 -5,2 -9,6 -12,11 -5,8 -7,24 -7,47 0,9 0,17 1,25 1,7 2,14 5,19 5,11 15,17 31,17 16,0 32,-3 47,-8l7 17zm121 -131c-17,0 -34,5 -51,15l0 123 -22 0 0 -222 21 -2 0 85c9,-8 21,-13 35,-17 6,-1 13,-2 21,-2 7,0 14,1 20,3 6,2 11,4 14,8 7,7 10,20 10,39l0 108 -22 0 0 -104c0,-13 -1,-21 -4,-24 -2,-4 -5,-6 -9,-8 -3,-1 -7,-2 -13,-2zm227 130c-18,7 -38,11 -60,11 -13,0 -23,-2 -32,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 5,-47 17,-58 10,-10 27,-15 52,-15 23,0 39,6 48,18 4,5 7,12 8,20 2,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -38,-1 -50,-3 0,20 2,34 7,42 6,9 19,14 37,14 19,0 36,-3 53,-11l7 19zm-21 -80l0 -12c0,-14 -2,-24 -8,-29 -6,-7 -16,-10 -30,-10 -18,0 -30,4 -36,11 -6,7 -9,21 -9,40l83 0zm133 -48c-11,0 -23,5 -34,16l0 120 -22 0 0 -155 19 0 2 20c4,-6 9,-11 14,-14 4,-4 8,-6 11,-7 5,-1 9,-2 13,-2 4,0 8,1 14,3l-2 20c-4,-1 -9,-1 -15,-1zm111 0c-11,0 -22,5 -34,16l0 120 -21 0 0 -155 19 0 2 20c4,-6 8,-11 13,-14 5,-4 9,-6 12,-7 4,-1 8,-2 12,-2 4,0 9,1 15,3l-2 20c-5,-1 -10,-1 -16,-1zm53 174c6,2 11,3 15,3 4,0 7,0 8,0 2,0 3,-1 4,-2 3,-1 6,-4 7,-8 4,-9 7,-18 10,-29l-60 -157 24 0 40 114 6 20 6 -20 36 -114 22 0 -65 192c-5,15 -16,22 -33,22 -11,0 -20,-1 -26,-4l6 -17zm226 -69c18,10 36,15 54,15 15,0 24,-5 26,-16 1,-3 2,-8 2,-13 0,-5 -1,-9 -2,-12 -1,-3 -3,-5 -6,-7 -3,-1 -7,-2 -12,-3 -4,-1 -10,-2 -18,-3 -7,-1 -14,-3 -20,-4 -6,-2 -11,-4 -15,-7 -9,-6 -14,-17 -13,-32l0 -3c0,-16 5,-28 15,-34 10,-7 27,-9 50,-7 16,1 29,4 38,8l-6 20c-10,-5 -23,-8 -38,-10 -4,0 -8,-1 -12,-1 -4,0 -8,1 -11,1 -3,1 -6,2 -8,4 -4,3 -7,9 -7,19 0,10 3,17 9,20 6,3 14,5 22,6 8,1 15,2 21,3 5,1 10,2 14,3 4,2 8,4 11,7 7,6 10,17 10,32 -1,27 -12,42 -34,46 -6,1 -13,2 -19,2 -7,0 -13,-1 -19,-1 -5,-1 -11,-2 -16,-4 -9,-3 -18,-6 -26,-11l10 -18zm277 23c-18,7 -38,11 -59,11 -13,0 -24,-2 -33,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 6,-47 17,-58 11,-10 28,-15 52,-15 24,0 40,6 49,18 4,5 6,12 8,20 1,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -39,-1 -51,-3 0,20 3,34 8,42 6,9 18,14 37,14 18,0 36,-3 53,-11l6 19zm-20 -80l0 -12c0,-14 -3,-24 -8,-29 -6,-7 -16,-10 -31,-10 -17,0 -29,4 -36,11 -6,7 -9,21 -9,40l84 0zm132 -48c-11,0 -22,5 -34,16l0 120 -21 0 0 -155 19 0 2 20c4,-6 8,-11 13,-14 5,-4 9,-6 12,-7 4,-1 8,-2 12,-2 4,0 9,1 15,3l-2 20c-5,-1 -10,-1 -16,-1zm38 -19l23 0 41 127 4 12 3 -12 39 -127 24 0 -52 155 -29 0 -53 -155zm296 147c-18,7 -38,11 -60,11 -13,0 -23,-2 -32,-4 -14,-4 -23,-12 -28,-25 -4,-12 -6,-29 -6,-52l0 -7c0,-27 5,-47 17,-58 10,-10 27,-15 52,-15 23,0 39,6 48,18 4,5 7,12 8,20 2,8 2,16 2,23 0,12 0,20 -1,27 -12,0 -23,1 -33,1l-21 0c-22,0 -38,-1 -50,-3 0,20 2,34 7,42 6,9 19,14 37,14 19,0 36,-3 53,-11l7 19zm-21 -80l0 -12c0,-14 -2,-24 -8,-29 -6,-7 -16,-10 -30,-10 -18,0 -30,4 -36,11 -6,7 -9,21 -9,40l83 0zm133 -48c-11,0 -23,5 -34,16l0 120 -22 0 0 -155 19 0 2 20c4,-6 9,-11 14,-14 4,-4 8,-6 11,-7 5,-1 9,-2 13,-2 4,0 8,1 14,3l-2 20c-4,-1 -9,-1 -15,-1zm56 105c18,10 36,15 54,15 15,0 24,-5 26,-16 1,-3 2,-8 2,-13 0,-5 -1,-9 -2,-12 -1,-3 -3,-5 -6,-7 -3,-1 -7,-2 -12,-3 -4,-1 -10,-2 -18,-3 -7,-1 -14,-3 -20,-4 -6,-2 -11,-4 -15,-7 -9,-6 -14,-17 -13,-32l0 -3c0,-16 5,-28 15,-34 10,-7 27,-9 50,-7 16,1 29,4 38,8l-6 20c-10,-5 -23,-8 -38,-10 -4,0 -8,-1 -12,-1 -4,0 -8,1 -11,1 -3,1 -6,2 -8,4 -4,3 -7,9 -7,19 0,10 3,17 9,20 7,3 14,5 22,6 8,1 15,2 21,3 5,1 10,2 14,3 4,2 8,4 11,7 7,6 10,17 10,32 -1,27 -12,42 -34,46 -6,1 -13,2 -19,2 -7,0 -13,-1 -19,-1 -5,-1 -10,-2 -16,-4 -9,-3 -18,-6 -26,-11l10 -18z" class="cui-logo__name" data-v-e9be3da2></path>
+                                            <path d="M104 44c107,-74 253,-52 332,48 -14,18 -30,34 -47,46 -13,9 -26,16 -40,22 -1,0 -1,0 -2,1 -7,3 -18,3 -23,-5 -35,-57 -97,-55 -147,-9 -49,45 -67,112 -30,166 38,54 107,59 166,29 59,-30 79,-85 44,-136 -4,-6 0,-11 6,-14 0,0 1,0 1,0 16,-7 31,-16 45,-25 17,-13 33,-28 48,-44 63,108 33,249 -72,322 -111,78 -263,51 -341,-60 -77,-111 -50,-263 60,-341z" class="cui-logo__shape" data-v-e9be3da2></path>
+                                        </svg></div>
+                                </div>
+                                <div class="cherry-footer__widget">
+                                    <div class="cherry-footer__widget-head">
+                                        <div class="cherry-footer__widget-title">
+                                            Contact us 24/7
+                                        </div>
+                                    </div>
+                                    <div class="cherry-footer__widget-body">
+                                        <div class="cherry-footer__menu">
+                                            <div class="cherry-footer__menu-item">
+                                                US:
+                                                <a href="tel:+1 332 255 68 52">+1 332 255 68 52</a>
+                                            </div>
+                                            <div class="cherry-footer__menu-item">
+                                                UK:
+                                                <a href="tel:+44 20 3734 1592">+44 20 3734 1592</a>
+                                            </div>
+                                            <div class="cherry-footer__menu-item">
+                                                LT:
+                                                <a href="tel:+370 415 035 03">+370 415 035 03</a>
+                                            </div>
+                                        </div>
+                                        <div class="cherry-footer__menu">
+                                            <div class="cherry-footer__menu-item">
+                                                Sales:
+                                                <a href="mailto:sales@cherryservers.com">sales@cherryservers.com</a>
+                                            </div>
+                                            <div class="cherry-footer__menu-item">
+                                                Support:
+                                                <a href="mailto:support@cherryservers.com">support@cherryservers.com</a>
+                                            </div>
+                                        </div>
+                                        <div class="cherry-footer__menu cherry-footer__menu--horizontal">
+                                            <div class="cherry-footer__menu-item"><a href="https://www.linkedin.com/company/cherry-servers/" target="_blank" rel="noopener"><img data-src="/_nuxt/img/81ff5ca.svg" alt="LinkedIn" class="lazyload"></a></div>
+                                            <div class="cherry-footer__menu-item"><a href="https://www.facebook.com/cherryservers" target="_blank" rel="noopener"><img data-src="/_nuxt/img/bb93b51.svg" alt="Facebook" class="lazyload"></a></div>
+                                            <div class="cherry-footer__menu-item"><a href="https://twitter.com/CherryServers" target="_blank" rel="noopener"><img data-src="/_nuxt/img/37a9dcc.svg" alt="Twitter" class="lazyload"></a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="cherry-footer__widget">
+                                    <div class="cherry-footer__widget-head">
+                                        <div class="cherry-footer__widget-title">
+                                            Get the latest news first
+                                        </div>
+                                        <div class="cherry-footer__widget-description">
+                                            Subscribe to our newsletter
+                                        </div>
+                                    </div>
+                                    <div class="cherry-footer__widget-body">
+                                        <form class="el-form cherry-footer__widget-form">
+                                            <div class="flex items-center">
+                                                <div class="el-form-item is-required el-form-item--normal">
+                                                    <!---->
+                                                    <div class="el-form-item__content">
+                                                        <div class="el-input el-input--small">
+                                                            <!----><input type="text" autocomplete="off" placeholder="Enter your email" class="el-input__inner">
+                                                            <!---->
+                                                            <!---->
+                                                            <!---->
+                                                            <!---->
+                                                        </div>
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                                <div class="el-form-item el-form-item--normal">
+                                                    <!---->
+                                                    <div class="el-form-item__content"><button class="cui-button cui-button--normal cui-button--blue">
+                                                            Subscribe
+                                                        </button>
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div>
+                                                <div class="el-form-item is-required el-form-item--normal">
+                                                    <!---->
+                                                    <div class="el-form-item__content"><label class="el-checkbox"><span class="el-checkbox__input"><span class="el-checkbox__inner"></span><input type="checkbox" aria-hidden="false" class="el-checkbox__original"></span><span class="el-checkbox__label"><span class="text-xs">I agree to receive marketing communication as per <a href="/legal/privacy-policy" class="text-blue-base underline hover:no-underline">privacy policy</a>.</span>
+                                                                <!---->
+                                                            </span></label>
+                                                        <!---->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="cherry-footer__navigation">
+                                <div class="cherry-footer__widget">
+                                    <div class="cherry-footer__widget-head"><span class="cherry-footer__widget-title">
+                                            Pricing
+                                        </span></div>
+                                    <div class="cherry-footer__widget-body">
+                                        <div class="cherry-footer__menu">
+                                            <div class="cherry-footer__menu-item"><a href="/pricing/dedicated-servers" aria-current="page" class="nuxt-link-exact-active nuxt-link-active">
+                                                    Dedicated Servers
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/pricing/virtual-servers">
+                                                    Virtual Servers
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/server-customizer">
+                                                    Custom Server Builder
+                                                </a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="cherry-footer__widget">
+                                    <div class="cherry-footer__widget-head"><span class="cherry-footer__widget-title">
+                                            Products
+                                        </span></div>
+                                    <div class="cherry-footer__widget-body">
+                                        <div class="cherry-footer__menu">
+                                            <div class="cherry-footer__menu-item"><a href="/bare-metal-dedicated-servers">
+                                                    Dedicated Servers
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/virtual-servers">
+                                                    Virtual Servers
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/spot-servers">
+                                                    Spot Servers
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/services/bare-metal-cloud-platform">
+                                                    Cloud Platform
+                                                </a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="cherry-footer__widget">
+                                    <div class="cherry-footer__widget-head"><span class="cherry-footer__widget-title">
+                                            Resources
+                                        </span></div>
+                                    <div class="cherry-footer__widget-body">
+                                        <div class="cherry-footer__menu">
+                                            <div class="cherry-footer__menu-item"><a href="/resources/api-and-integrations">
+                                                    API &amp; Integrations
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/resources/case-studies">
+                                                    Case Studies
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="https://docs.cherryservers.com/knowledge" target="_blank" rel="noopener">
+                                                    Knowledgebase
+                                                </a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="cherry-footer__widget">
+                                    <div class="cherry-footer__widget-head"><a href="/company" class="cherry-footer__widget-title">
+                                            Company
+                                        </a></div>
+                                    <div class="cherry-footer__widget-body">
+                                        <div class="cherry-footer__menu">
+                                            <div class="cherry-footer__menu-item"><a href="/company#contacts">
+                                                    Contacts
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/company#about">
+                                                    About us
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/company#team">
+                                                    Our Team
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/company#core-values">
+                                                    Core Values
+                                                </a></div>
+                                            <div class="cherry-footer__menu-item"><a href="/resources/projects">
+                                                    EU Projects
+                                                </a></div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="cherry-footer__secondary">
+                        <div class="container">
+                            <div class="cherry-footer__methods">
+                                <div class="cherry-footer__methods-item"><img data-src="/_nuxt/img/0a090d4.svg" alt="Bitcoin" class="lazyload"></div>
+                                <div class="cherry-footer__methods-item"><img data-src="/_nuxt/img/13c6f78.svg" alt="MasterCard" class="lazyload"></div>
+                                <div class="cherry-footer__methods-item"><img data-src="/_nuxt/img/1f40aac.svg" alt="PayPal" class="lazyload"></div>
+                                <div class="cherry-footer__methods-item"><img data-src="/_nuxt/img/bcd7823.svg" alt="Visa" class="lazyload"></div>
+                            </div>
+                            <div class="cherry-footer__copyrights">
+                                © Cherry Servers 2001-2021
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!---->
+                <div class="fixed bottom-0 left-0 text-gray text-2xs opacity-25 leading-none p-2">
+                    <div>
+                        build: 70e19ac2.685
+                    </div>
+                    <div>
+                        ui: 0.40.8
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        window.__NUXT__ = (function(a, b, c) {
+            return {
+                layout: "default",
+                data: [{}],
+                fetch: {
+                    "SectionPaymentOptions:0": {
+                        section: {
+                            slug: "payment-options",
+                            title: "Supported Payment Options",
+                            title__i18n__ru: "Поддерживаемые варианты оплаты",
+                            description: "We support a wide variety of payment options. Choose Bitcoin, wire transfer, or anything in between.",
+                            description__i18n__ru: "Мы поддерживаем широкий спектр вариантов оплаты. От биткоинов до банковского перевода — выберите наиболее удобное для себя решение.",
+                            options: [{
+                                title: "Bitcoin",
+                                img: "\u002Fmethods\u002Fbitcoin.png"
+                            }, {
+                                title: "Visa",
+                                img: "\u002Fmethods\u002Fvisa.png"
+                            }, {
+                                title: "MasterCard",
+                                img: "\u002Fmethods\u002Fmastercard.png"
+                            }, {
+                                title: "PayPal",
+                                img: "\u002Fmethods\u002Fpaypal.png"
+                            }, {
+                                title: "Western Union",
+                                img: "\u002Fmethods\u002Fwu.png"
+                            }, {
+                                title: "JCB Diners Club",
+                                img: "\u002Fmethods\u002Fjcb.png"
+                            }, {
+                                title: "CashU",
+                                img: "\u002Fmethods\u002Fcashu.png"
+                            }, {
+                                title: "SafetyPay",
+                                img: "\u002Fmethods\u002Fsafetypay.png"
+                            }],
+                            dir: "\u002Fsections",
+                            path: "\u002Fsections\u002Fpayment-options",
+                            extension: ".json",
+                            createdAt: "2022-01-24T07:28:41.806Z",
+                            updatedAt: "2021-10-06T12:46:48.000Z"
+                        }
+                    }
+                },
+                error: a,
+                state: {
+                    visitor: {
+                        ip: "85.174.200.165"
+                    },
+                    ui: {},
+                    currency: {
+                        currency: b,
+                        list: [{
+                            code: "EUR",
+                            title: "Euro",
+                            symbol: "€",
+                            position: "right",
+                            decimals: c
+                        }, {
+                            code: b,
+                            title: "US Dollar",
+                            symbol: "$",
+                            position: "left",
+                            decimals: c
+                        }]
+                    },
+                    cart: {},
+                    auth: {},
+                    i18n: {
+                        routeParams: {}
+                    },
+                    preferences: {},
+                    wait: {
+                        waitingFor: [],
+                        progresses: {}
+                    }
+                },
+                serverRendered: true,
+                routePath: "\u002Fpricing\u002Fdedicated-servers",
+                config: {
+                    app: {
+                        basePath: "\u002F",
+                        assetsPath: "\u002F_nuxt\u002F",
+                        cdnURL: a
+                    }
+                }
+            }
+        }(null, "USD", 0));
+    </script>
+    <script src="/_nuxt/abc4052.js" defer></script>
+    <script src="/_nuxt/64c1d71.js" defer></script>
+    <script src="/_nuxt/7ddccdf.js" defer></script>
+    <script src="/_nuxt/4ff0a04.js" defer></script>
+    <script src="/_nuxt/20538e1.js" defer></script>
+    <script src="/_nuxt/87935f0.js" defer></script>
+    <script src="/_nuxt/182fef3.js" defer></script>
+    <script src="/_nuxt/7bbc126.js" defer></script>
+    <script src="/_nuxt/da73943.js" defer></script>
+</body></html>

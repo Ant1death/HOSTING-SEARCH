@@ -1,0 +1,79 @@
+.cui-backdrop[data-v-3ec66c93] {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    padding: 1.25rem;
+    background-color: rgba(239, 241, 244, .75)
+}
+
+.cui-backdrop[data-v-3ec66c93]:focus {
+    outline: 2px solid transparent;
+    outline-offset: 2px
+}
+
+.cui-modal {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    width: 100%;
+    margin: auto;
+    --bg-opacity: 1;
+    background-color: #fff;
+    background-color: rgba(255, 255, 255, var(--bg-opacity));
+    -webkit-box-shadow: 0 2px 1px 0 rgba(64, 64, 64, .05), 0 4px 20px 0 rgba(49, 110, 255, .08);
+    box-shadow: 0 2px 1px 0 rgba(64, 64, 64, .05), 0 4px 20px 0 rgba(49, 110, 255, .08);
+    border-radius: 6px;
+    position: relative;
+    overflow: hidden
+}
+
+.cui-flag[data-v-23aa8148] {
+    display: -webkit-inline-box;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    line-height: 1;
+    overflow: hidden
+}
+
+.cui-flag .cui-flag__icon[data-v-23aa8148] {
+    width: auto;
+    height: 100%
+}
+
+.cui-flag--rounded .cui-flag__icon[data-v-23aa8148] {
+    border-radius: 2px
+}
+
+.cui-flag--large .cui-flag__icon[data-v-23aa8148] {
+    height: 2.5rem
+}
+
+.cui-flag--medium .cui-flag__icon[data-v-23aa8148] {
+    height: 2rem
+}
+
+.cui-flag--normal .cui-flag__icon[data-v-23aa8148] {
+    height: 1.5rem
+}
+
+.cui-flag--small .cui-flag__icon[data-v-23aa8148] {
+    height: 1rem
+}
+
+.cui-flag--tiny .cui-flag__icon[data-v-23aa8148] {
+    height: .75rem
+}

@@ -1,0 +1,95 @@
+.cherry-section--featurelinks .cherry-section__body {
+    border-top: 1px solid #eef0f8
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-section--featurelinks .cherry-section__body .container {
+        padding: 0
+    }
+}
+
+.cherry-featurelinks {
+    display: flex;
+    width: 100%
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-featurelinks {
+        display: block
+    }
+}
+
+.cherry-featurelinks .cherry-featurelinks__item {
+    display: flex;
+    align-items: flex-start;
+    padding: 60px 15px;
+    width: 100%
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-featurelinks .cherry-featurelinks__item {
+        padding: 40px 15px
+    }
+}
+
+.cherry-featurelinks .cherry-featurelinks__item .cherry-button {
+    padding: 0;
+    font-size: 18px
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-featurelinks .cherry-featurelinks__item {
+        padding: 40px 30px
+    }
+}
+
+.cherry-featurelinks .cherry-featurelinks__item .cherry-featurelinks__item-image img {
+    max-width: 128px
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-featurelinks .cherry-featurelinks__item .cherry-featurelinks__item-image img {
+        max-width: 84px;
+        height: auto
+    }
+}
+
+.cherry-featurelinks .cherry-featurelinks__item .cherry-featurelinks__item-image + .cherry-featurelinks__item-content {
+    margin-left: 50px
+}
+
+@media(min-width:0)and (max-width:568px) {
+    .cherry-featurelinks .cherry-featurelinks__item .cherry-featurelinks__item-image + .cherry-featurelinks__item-content {
+        margin-left: 30px
+    }
+}
+
+.cherry-featurelinks .cherry-featurelinks__item + .cherry-featurelinks__item {
+    padding-left: 60px;
+    border-left: 1px solid #eef0f8
+}
+
+@media(min-width:0)and (max-width:1024px) {
+    .cherry-featurelinks .cherry-featurelinks__item + .cherry-featurelinks__item {
+        padding-left: 30px;
+        border-top: 1px solid #eef0f8;
+        border-left: 0
+    }
+}
+
+.cherry-featurelinks .cherry-featurelinks__title {
+    font-size: 18px;
+    font-weight: 600;
+    color: #1f1f22
+}
+
+.cherry-featurelinks .cherry-featurelinks__title + .cherry-featurelinks__description {
+    margin-top: 20px
+}
+
+.cherry-featurelinks .cherry-featurelinks__link {
+    display: inline-block;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none
+}
